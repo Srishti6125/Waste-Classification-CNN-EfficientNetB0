@@ -19,7 +19,7 @@ green-glass, metal, paper, plastic, shoes, trash, white-glass
 ---
 
 ## 📦 Dataset
-- Source: **Kaggle – Garbage Classification Dataset**[(https://www.kaggle.com/datasets/mostafaabla/garbage-classification)]
+- Source: **[Kaggle – Garbage Classification Dataset](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)**
 - Images organized in **class-wise folders**
 - Split: **Train (80%) | Validation (10%) | Test (10%)**
 
@@ -62,7 +62,7 @@ green-glass, metal, paper, plastic, shoes, trash, white-glass
 ---
 
 ## 🛠️ Tech Stack
-Python, TensorFlow/Keras, EfficientNet, NumPy, Matplotlib, Scikit-learn
+Python, TensorFlow/Keras, NumPy, Matplotlib, Scikit-learn, EfficientNet(base 0)
 
 ---
 
